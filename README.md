@@ -4,7 +4,7 @@
 
 ## Setup IDE
 
-* run `pos install` from terminal
+* run `pod install` from terminal
 * open xcworkspace file instead of xcode
 
 ## TODO
