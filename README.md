@@ -1,5 +1,12 @@
 # MaziRecorder
 
+
+
+## Setup IDE
+
+* run `pos install` from terminal
+* open xcworkspace file instead of xcode
+
 ## TODO
 
 * [x] Load persisted state
